@@ -1233,7 +1233,7 @@ a.move-top {
 
 @media(max-width:900px) {
     
-    .img-fluid {
+    .img-fluid-logo{
         height: 25px;
     }
 
@@ -1318,7 +1318,7 @@ a.move-top {
 
 @media(max-width:568px) {
     
-    .img-fluid {
+    .img-fluid-logo {
         height: 25px;
     }
     
@@ -1375,7 +1375,7 @@ a.move-top {
 }
     
     
-    .img-fluid {
+    .img-fluid-logo {
         height: 25px;
     }
     
@@ -1429,7 +1429,7 @@ a.move-top {
     max-width: 40%;
 }
     
-    .img-fluid {
+    .img-fluid-logo {
         height: 21px;
     }
 
