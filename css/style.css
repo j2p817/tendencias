@@ -1424,13 +1424,13 @@ a.move-top {
 
 @media(max-width:384px) {
     
-    
-.footer-logo-img {
-    max-width: 40%;
-}
+    .footer-logo-img {
+        max-width: 40%;
+    }
     
     .img-fluid-logo {
-        height: 21px;
+        height: 43px;
+        width: 120px;
     }
 
     h4.agile-title,
